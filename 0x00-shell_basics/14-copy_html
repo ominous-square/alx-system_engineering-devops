@@ -1,4 +1,2 @@
 #!/bin/bash
-cp -n *.html
-#!/bin/bash
 cp -n *.html ..
