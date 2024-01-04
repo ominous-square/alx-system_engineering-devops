@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+ping -n 5 "$1"
