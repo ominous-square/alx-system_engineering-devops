@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-netstat -pl
+# Displays listening sockets
+netstat -l --program
